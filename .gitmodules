@@ -1,0 +1,18 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/InterstellarCoders/Api-gateway.git
+[submodule "data"]
+	path = data
+	url = https://github.com/InterstellarCoders/Data-service.git
+[submodule "services/user-service"]
+	path = services/user-service
+	url = https://github.com/InterstellarCoders/User-service.git
+[submodule "services/products-service"]
+	path = services/products-service
+	url = https://github.com/InterstellarCoders/Products-service.git
+[submodule "services/orders-service"]
+	path = services/orders-service
+	url = https://github.com/InterstellarCoders/Orders-service.git
+[submodule "services/payment-service"]
+	path = services/payment-service
+	url = https://github.com/InterstellarCoders/Payment-service.git
